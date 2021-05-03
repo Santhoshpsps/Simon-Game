@@ -36,4 +36,4 @@
 
 
 
-Hop that will help to make a game.
+Hope that will help to make a game.
